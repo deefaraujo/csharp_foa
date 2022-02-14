@@ -38,3 +38,5 @@
 /home/estagiario/Documentos/Faculdade/POO_III/projeto_csharp/csharp_foa/obj/Debug/net5.0/csharp_foa.pdb
 /home/estagiario/Documentos/Faculdade/POO_III/projeto_csharp/csharp_foa/obj/Debug/net5.0/csharp_foa.genruntimeconfig.cache
 /home/estagiario/Documentos/Faculdade/POO_III/projeto_csharp/csharp_foa/obj/Debug/net5.0/csharp_foa.csproj.CopyComplete
+/home/estagiario/Documentos/Faculdade/POO_III/projeto_csharp/csharp_foa/obj/Debug/net5.0/Razor/Pages/FOA.cshtml.g.cs
+/home/estagiario/Documentos/Faculdade/POO_III/projeto_csharp/csharp_foa/obj/Debug/net5.0/Razor/Pizza.cshtml.g.cs
